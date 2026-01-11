@@ -1,0 +1,27 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## User settings
+xcuserdata/
+
+## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
+*.mode1v3
+*.mode2v3
+*.pbxuser
+!default.pbxuser
+*.perspectivev3
+!default.perspectivev3
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+
+## build generated
+build/
+DerivedData/
+
+## Misc
+.DS_Store
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
