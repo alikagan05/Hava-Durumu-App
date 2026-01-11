@@ -10,8 +10,8 @@ import SwiftUI
 
 struct Constants {
     struct API {
-        static let key = "6cb714374f9943699ff115352253012"
-        static let baseURL = "https://api.weatherapi.com/v1"
+        static let key = "*********************"
+        static let baseURL = "********"
     }
     
     struct Colors {
